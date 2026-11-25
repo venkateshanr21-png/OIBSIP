@@ -3,16 +3,15 @@
 Small web tool that converts between Celsius, Fahrenheit and Kelvin.
 
 ## Run it
-Open `html/index.html` in any browser. No install or server needed.
+Open `index.html` in any browser. No install or server needed.
 
 ## Structure
 ```
-projects/
-└── temperature-converter/
-    ├── html/index.html
-    ├── css/style.css
-    ├── js/script.js
-    └── README.md
+WebDev-L3-temperature-celsius/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 ```
 
 ## Features
